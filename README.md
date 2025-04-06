@@ -1,2 +1,2 @@
 # learn-database
-all db and hibernate stuff we will be updating here
+all db and hibernate stuff we will cover under here
